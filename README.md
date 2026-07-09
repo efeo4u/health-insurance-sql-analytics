@@ -46,5 +46,4 @@ JOIN members ON claims.member_id = members.member_id;
 - Provider-level denial analysis
 
 ## Why This Project
-I work in healthcare patient access and compliance reporting, and wanted 
-to build SQL skills directly relevant to healthcare analytics roles.
+I work in healthcare corporate patient access and wanted to showcase SQL skills directly relevant to healthcare analytics roles.
